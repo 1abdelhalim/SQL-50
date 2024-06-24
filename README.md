@@ -1,3 +1,3 @@
-Welcome to the SQL 50 on LeetCode repository
+Welcome to the SQL 50 LeetCode repository
 
-This project contains solutions and explanations for the SQL problems on LeetCode
+This repo contains solutions and explanations for the SQL problems on LeetCode
